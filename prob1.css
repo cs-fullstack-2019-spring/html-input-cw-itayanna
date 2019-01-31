@@ -1,0 +1,26 @@
+.container{
+    margin: 10% 15%;
+
+}
+
+h1{
+    color: #ffffff;
+}
+
+input{
+    width: 50%;
+}
+h3{
+    color: white;
+}
+button{
+    display: block;
+    width: 50%;
+    background-color: orange;
+    margin-top: 20px;
+}
+
+footer{
+    color: white;
+    margin-top: 30px;
+}

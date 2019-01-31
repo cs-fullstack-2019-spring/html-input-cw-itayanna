@@ -1,0 +1,23 @@
+
+
+.format{
+    margin: 5% 20%;
+    text-align: center;
+}
+h1{
+    display: inline-block;
+    border-style: solid;
+    border-width: 1px;
+    padding-left: 50px ;
+    padding-right: 50px;
+
+}
+
+input{
+    width: 100%;
+}
+
+.inline{
+    display: inline-block;
+    width: 49%;
+}
